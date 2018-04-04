@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "code": "P100",
+      "libelle": "Café",
+      "prixUnitaire": 400
+    },
+    {
+      "id": 2,
+      "code": "P200",
+      "libelle": "Jus d\"orange",
+      "prixUnitaire": 800
+    },
+    {
+      "id": 3,
+      "code": "P300",
+      "libelle": "Thé",
+      "prixUnitaire": 300
+    },
+    {
+      "id": 4,
+      "code": "P400",
+      "libelle": "Coca-cola",
+      "prixUnitaire": 1000
+    },
+    {
+      "id": 5,
+      "code": "P500",
+      "libelle": "Jus de pomme",
+      "prixUnitaire": 1200
+    }
+  ]
+}
